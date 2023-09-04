@@ -6,7 +6,7 @@
 #       3) Samarth Srivastava         22AG65R12
 #       4) Vidhya Parshuramkar        22AG63R28
 #       5) Tejas Chaudhari            22AG63R29 
-#       6) Piyush Chouhan             22AG63R30
+#       6) Amul Khandekar             22AG65R04
 
 #%%
 
